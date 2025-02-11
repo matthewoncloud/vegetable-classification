@@ -6,19 +6,11 @@ Sample Pictures from datset
 
 ![Alt text](vegetable-dataset-sample.png)
 
-# CNN
-
-Overall accuracy: 98.43%
-
-Accuracy vs Loss
-
-![Alt text](output-accuracy-vs-loss-cnn.png)
-
-Confusion Matrix
-
-![Alt text](output-confusion-matrix-cnn.png)
-
 # NN
+
+Architecture:
+
+![Alt text](neural-network.jpg)
 
 Overall accuracy: 90.97%
 
@@ -30,6 +22,17 @@ Confusion Matrix
 
 ![Alt text](output-confusion-matrix-nn.png)
 
+# CNN
+
+Overall accuracy: 98.43%
+
+Accuracy vs Loss
+
+![Alt text](output-accuracy-vs-loss-cnn.png)
+
+Confusion Matrix
+
+![Alt text](output-confusion-matrix-cnn.png)
 
 # Transfer Learning
 
@@ -48,3 +51,4 @@ Overall accuracy: 99.80%
 Accuracy vs Loss
 
 ![Alt text](output-accuracy-vs-loss-vgg16.png)
+
